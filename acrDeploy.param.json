@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "acrName": {
-      "value": "yourRegisteryName"
+      "value": "acrjqm2"
     },
     "acrAdminUserEnabled": {
       "value": true
